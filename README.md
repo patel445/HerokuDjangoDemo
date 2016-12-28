@@ -5,5 +5,4 @@ Url: https://djangodemo1.herokuapp.com/
 
 - shows a static page
 - shows some dynamic component (clock)
-- shows some periodic task
 - shows a Google map with a marked location
