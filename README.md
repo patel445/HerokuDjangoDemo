@@ -1,5 +1,5 @@
-# LearnDjango
-Basic Django App that does the following:
+# LearnDjango and Heroku
+Basic Heroku Django App that does the following:
 
 Url: https://djangodemo1.herokuapp.com/
 
